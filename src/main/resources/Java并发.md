@@ -136,3 +136,4 @@ Object o = new Object(); 内存布局
 ### 其他相关文章
 
 ##### [Java锁---偏向锁、轻量级锁、自旋锁、重量级锁](https://www.cnblogs.com/linghu-java/p/8944784.html)
+##### [深入分析Synchronized原理](https://www.jianshu.com/p/e62fa839aa41)
